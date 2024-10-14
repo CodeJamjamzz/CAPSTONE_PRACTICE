@@ -22,4 +22,7 @@ public class Animal {
     public int t(){
         return 32323;
     }
+
+
+    // jamiel kyne pinca
 }
