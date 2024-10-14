@@ -23,6 +23,8 @@ public class Animal {
         return 32323;
     }
 
+    public String sydney(){
+        return "Ice cream yummy";
+    }
 
-    // jamiel kyne pinca
 }
